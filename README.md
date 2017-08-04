@@ -19,35 +19,35 @@ The main opjectives are:
 
 | Project Proposal 1            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 8%  | 18% | 24% |
 
 | Project Proposal 2            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 2%  | 20% | 30% |
 
 | Project Proposal 3            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 12% | 14% | 18% |
 
 | Project Proposal 4            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 15% | 20% | 24% |
 
 | Project Proposal 5            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 8%  | 15% | 20% |
 
 | Project Proposal 6            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 6%  | 18% | 25% |
 
 | Project Proposal 7            |     |     |     |
 | ----------------------------- |:---:|:---:|:---:|
-| Probability (Likelihood)      | 80% | 50% | 20% |
+| Probability                   | 80% | 50% | 20% |
 | ROI                           | 9%  | 15% | 20% |
