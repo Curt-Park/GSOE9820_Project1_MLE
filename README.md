@@ -1,3 +1,4 @@
+
 # GSOE9820, University of New South Wales (Semester 2, 2017)
 
 ## Film Prioritization
@@ -51,3 +52,6 @@ The main opjectives are:
 | ----------------------------- |:---:|:---:|:---:|
 | Probability                   | 80% | 50% | 20% |
 | ROI                           | 9%  | 15% | 20% |
+
+## Test Result
+Available in this [link](http://nbviewer.jupyter.org/github/Curt-Park/GSOE9820_Project1_Profit_Inference/blob/master/maximum_likelihood_estimation_for_project_evaluation.ipynb)
