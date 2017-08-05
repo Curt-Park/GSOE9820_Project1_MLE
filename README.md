@@ -8,50 +8,7 @@ organization's objectives and strategic plan.
 Among a number of items in evaluation form, this repository focuses on the 
 inference of expected profit on 7 different project proposals.
 
-## Assumption
-Given data are normally distributed. (Gaussian Distribution)
-
-## Objective
-The main opjectives are:
-  - To get the proper gaussian distribution for each project by using Maximum Liklihood Estimation.
-  - To estimate the highest probability among P(X<=18), P(18<X<22), and P(X>=22).
-
-## Given Data
-
-| Project Proposal 1            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 8%  | 18% | 24% |
-
-| Project Proposal 2            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 2%  | 20% | 30% |
-
-| Project Proposal 3            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 12% | 14% | 18% |
-
-| Project Proposal 4            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 15% | 20% | 24% |
-
-| Project Proposal 5            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 8%  | 15% | 20% |
-
-| Project Proposal 6            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 6%  | 18% | 25% |
-
-| Project Proposal 7            |     |     |     |
-| ----------------------------- |:---:|:---:|:---:|
-| Probability                   | 80% | 50% | 20% |
-| ROI                           | 9%  | 15% | 20% |
-
 ## Test Result
-Available in this [link](http://nbviewer.jupyter.org/github/Curt-Park/GSOE9820_Project1_Profit_Inference/blob/master/maximum_likelihood_estimation_for_project_evaluation.ipynb)
+[1. Inference by Maximum Likelihood Estimation](http://nbviewer.jupyter.org/github/Curt-Park/GSOE9820_Project1_Profit_Inference/blob/master/maximum_likelihood_estimation_for_project_evaluation.ipynb)
+
+[2. Inference by Mean and Std from Given Information](http://nbviewer.jupyter.org/github/Curt-Park/GSOE9820_Project1_Profit_Inference/blob/master/simple_approach_using_mean_and_std.ipynb)
